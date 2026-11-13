@@ -36,7 +36,7 @@ Piloto real do kit feito com um especialista de verdade (o Nei, acervo público 
 
 ## Restrições
 - só pela assinatura (sem API sem autorização)
-- acervo do piloto = conteúdo público do próprio Nei (lives YouTube @~~ARCKHÉTDS~~x, guias ~~ARCKHÉTDS~~.github.io)
+- acervo do piloto = conteúdo público do próprio Nei (lives YouTube @inematdsx, guias inematds.github.io)
 - não mexer em: repos de outros projetos além de portal/arckhebuscas/arckhepro-mono via skill atualiza-portal
 
 ## Portões humanos (parar e perguntar)

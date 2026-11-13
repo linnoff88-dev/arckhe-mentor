@@ -12,7 +12,7 @@ Fecha o piloto em **5/5**.
 
 ## 1.2.0 — 2026-10-05
 
-Correções vindas do piloto real (mentor do Nei: 22 fontes, 189 mil palavras, 4/5, nota 8; diário em ~~ARCKHÉTDS~~/mentor-nei).
+Correções vindas do piloto real (mentor do Nei: 22 fontes, 189 mil palavras, 4/5, nota 8; diário em inematds/mentor-nei).
 
 - Manifesto com trava de arquivo e escrita atômica: coleta com um subagente por fonte em paralelo não perde itens.
 - Vídeo salvo com título + ID (antes, a transcrição local virava `transcript.txt` e sobrescrevia a anterior).

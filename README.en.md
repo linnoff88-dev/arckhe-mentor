@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-[![Expert Mentor](guia/assets/banner-en.jpg)](https://~~ARCKHÉTDS~~.github.io/mentor-especialista/guia/en/)
+[![Expert Mentor](guia/assets/banner-en.jpg)](https://inematds.github.io/mentor-especialista/guia/en/)
 
 **A ready-made kit to turn an expert's method into a mentor inside Claude Code.**
 The mentor teaches by building together with you, reviews before delivering, and only says "it works" after running it.
@@ -11,7 +11,7 @@ The mentor teaches by building together with you, reviews before delivering, and
 
 ## 📖 User guide
 
-Full guide (landing page + step by step): **https://~~ARCKHÉTDS~~.github.io/mentor-especialista/guia/en/**
+Full guide (landing page + step by step): **https://inematds.github.io/mentor-especialista/guia/en/**
 
 ## Why it exists
 
@@ -35,7 +35,7 @@ The mentor fixes this with four pieces:
 Requirements: Python 3.10+, git, [Claude Code](https://claude.com/claude-code). Optional: `yt-dlp` (video subtitles) and a local transcriber.
 
 ```bash
-git clone https://github.com/~~ARCKHÉTDS~~/mentor-especialista.git
+git clone https://github.com/inematds/mentor-especialista.git
 cd mentor-especialista
 
 # 1. see the example working (fictional expert, 3 sources, 7 rules)
@@ -108,7 +108,7 @@ When the mentor writes code and tries to finish without running it, Claude Code 
 
 ## Real pilot
 
-The kit was validated with a real expert: Nei himself, with 22 public sources and 189k words. Result: **5 of 5** criteria and a score of 8 on "I recognize the person in the rules". The flaws it found became versions 1.2 and 1.3; the last one, the mentor running before predicting, was only solved by a mechanism (the prediction gate), not by instructions. The complete mentor is public at **[~~ARCKHÉTDS~~/mentor-nei](https://github.com/~~ARCKHÉTDS~~/mentor-nei)** (in Portuguese): archive, wiki, rules, diary and results.
+The kit was validated with a real expert: Nei himself, with 22 public sources and 189k words. Result: **5 of 5** criteria and a score of 8 on "I recognize the person in the rules". The flaws it found became versions 1.2 and 1.3; the last one, the mentor running before predicting, was only solved by a mechanism (the prediction gate), not by instructions. The complete mentor is public at **[inematds/mentor-nei](https://github.com/inematds/mentor-nei)** (in Portuguese): archive, wiki, rules, diary and results.
 
 ## Test the kit itself
 

@@ -1,6 +1,6 @@
 # CLAUDE.md — kit mentor-especialista
 
-Kit da comunidade para criar mentores no Claude Code. Repo público: `~~ARCKHÉTDS~~/mentor-especialista` (autor dos commits: `~~ARCKHÉTDS~~ <~~ARCKHÉTDS~~@gmail.com>`).
+Kit da comunidade para criar mentores no Claude Code. Repo público: `inematds/mentor-especialista` (autor dos commits: `inematds <inematds@gmail.com>`).
 
 ## Regras do repo
 

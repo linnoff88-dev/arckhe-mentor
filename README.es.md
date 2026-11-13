@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-[![Mentor Experto](guia/assets/banner-es.jpg)](https://~~ARCKHÉTDS~~.github.io/mentor-especialista/guia/es/)
+[![Mentor Experto](guia/assets/banner-es.jpg)](https://inematds.github.io/mentor-especialista/guia/es/)
 
 **Kit listo para convertir el método de un experto en un mentor dentro de Claude Code.**
 El mentor enseña construyendo contigo, revisa antes de entregar y solo dice "funciona" después de ejecutar.
@@ -11,7 +11,7 @@ El mentor enseña construyendo contigo, revisa antes de entregar y solo dice "fu
 
 ## 📖 Guía de uso
 
-Guía completa (landing + paso a paso): **https://~~ARCKHÉTDS~~.github.io/mentor-especialista/guia/es/**
+Guía completa (landing + paso a paso): **https://inematds.github.io/mentor-especialista/guia/es/**
 
 ## Por qué existe
 
@@ -35,7 +35,7 @@ El mentor corrige esto con cuatro piezas:
 Requisitos: Python 3.10+, git, [Claude Code](https://claude.com/claude-code). Opcional: `yt-dlp` (subtítulos de video) y un transcriptor local.
 
 ```bash
-git clone https://github.com/~~ARCKHÉTDS~~/mentor-especialista.git
+git clone https://github.com/inematds/mentor-especialista.git
 cd mentor-especialista
 
 # 1. mira el ejemplo funcionando (experto ficticio, 3 fuentes, 7 reglas)
@@ -108,7 +108,7 @@ Cuando el mentor escribe código e intenta terminar sin ejecutarlo, Claude Code 
 
 ## Piloto real
 
-El kit se validó con un experto de verdad: el propio Nei, con 22 fuentes públicas y 189 mil palabras. Resultado: **5 de 5** criterios y nota 8 en "reconozco a la persona en las reglas". Las fallas que encontró se convirtieron en las versiones 1.2 y 1.3; la última, que el mentor ejecutara antes de predecir, solo se resolvió con un mecanismo (la puerta de predicción), no con instrucciones. El mentor completo es público en **[~~ARCKHÉTDS~~/mentor-nei](https://github.com/~~ARCKHÉTDS~~/mentor-nei)** (en portugués): acervo, wiki, reglas, diario y resultados.
+El kit se validó con un experto de verdad: el propio Nei, con 22 fuentes públicas y 189 mil palabras. Resultado: **5 de 5** criterios y nota 8 en "reconozco a la persona en las reglas". Las fallas que encontró se convirtieron en las versiones 1.2 y 1.3; la última, que el mentor ejecutara antes de predecir, solo se resolvió con un mecanismo (la puerta de predicción), no con instrucciones. El mentor completo es público en **[inematds/mentor-nei](https://github.com/inematds/mentor-nei)** (en portugués): acervo, wiki, reglas, diario y resultados.
 
 ## Probar el propio kit
 

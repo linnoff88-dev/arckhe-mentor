@@ -2,7 +2,7 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
-[![Mentor-Especialista](guia/assets/banner.jpg)](https://~~ARCKHÉTDS~~.github.io/mentor-especialista/guia/)
+[![Mentor-Especialista](guia/assets/banner.jpg)](https://inematds.github.io/mentor-especialista/guia/)
 
 **Kit pronto para transformar o método de um especialista num mentor dentro do Claude Code.**
 O mentor ensina construindo junto, revisa antes da entrega e só diz "funciona" depois de rodar.
@@ -11,7 +11,7 @@ O mentor ensina construindo junto, revisa antes da entrega e só diz "funciona" 
 
 ## 📖 Guia de uso
 
-Guia completo (landing + passo a passo): **https://~~ARCKHÉTDS~~.github.io/mentor-especialista/guia/**
+Guia completo (landing + passo a passo): **https://inematds.github.io/mentor-especialista/guia/**
 
 ## Por que existe
 
@@ -35,7 +35,7 @@ O mentor corrige isso com quatro peças:
 Requisitos: Python 3.10+, git, [Claude Code](https://claude.com/claude-code). Opcional: `yt-dlp` (legendas de vídeo) e um transcritor local.
 
 ```bash
-git clone https://github.com/~~ARCKHÉTDS~~/mentor-especialista.git
+git clone https://github.com/inematds/mentor-especialista.git
 cd mentor-especialista
 
 # 1. veja o exemplo funcionando (especialista fictício, 3 fontes, 7 regras)
@@ -108,7 +108,7 @@ Quando o mentor escreve código e tenta terminar sem rodar, o Claude Code mostra
 
 ## Piloto real
 
-O kit foi validado com um especialista de verdade: o próprio Nei, com 22 fontes públicas e 189 mil palavras. Resultado: **5 de 5** critérios e nota 8 em "reconheço a pessoa nas regras". As falhas que ele encontrou viraram as versões 1.2 e 1.3; a última delas, o mentor rodar antes de prever, só foi resolvida com um mecanismo (o portão de previsão), não com instrução. O mentor completo é público em **[~~ARCKHÉTDS~~/mentor-nei](https://github.com/~~ARCKHÉTDS~~/mentor-nei)**: acervo, wiki, regras, diário e resultados.
+O kit foi validado com um especialista de verdade: o próprio Nei, com 22 fontes públicas e 189 mil palavras. Resultado: **5 de 5** critérios e nota 8 em "reconheço a pessoa nas regras". As falhas que ele encontrou viraram as versões 1.2 e 1.3; a última delas, o mentor rodar antes de prever, só foi resolvida com um mecanismo (o portão de previsão), não com instrução. O mentor completo é público em **[inematds/mentor-nei](https://github.com/inematds/mentor-nei)**: acervo, wiki, regras, diário e resultados.
 
 ## Testar o próprio kit
 
