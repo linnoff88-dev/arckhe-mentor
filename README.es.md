@@ -131,4 +131,4 @@ python3 -m pytest -q tests     # → 81 passed
 
 ## Licencia
 
-MIT. Hecho por la comunidad [ARCKHÉ.CLUB](https://linnoff88-dev.github.io/arckhe-ai).
+MIT. Hecho por la comunidad [ARCKHÉ.AI](https://linnoff88-dev.github.io/arckhe-ai).
